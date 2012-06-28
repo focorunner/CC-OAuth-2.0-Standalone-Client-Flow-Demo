@@ -9,3 +9,4 @@ PHP Version 5 + is required for this application to run, as CURL and JSON and he
 
 If you find this demo useful, or wish to use it as a basis for authentication in your own applications, please feel free to fork this repository and do so.
 
+I make no promises or guarantees that this will work on all webhosts and or with all server configurations.
