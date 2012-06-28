@@ -1,6 +1,6 @@
 <?php
 
-$token = $_COOKIE['ccauth'];
+$token = $_COOKIE['ccauth']; 
 
 echo '<h2>OAuth 2.0 Client flow demo</h2>';
 
