@@ -10,3 +10,5 @@ PHP Version 5 + is required for this application to run, as CURL and JSON and he
 If you find this demo useful, or wish to use it as a basis for authentication in your own applications, please feel free to fork this repository and do so.
 
 I make no promises or guarantees that this will work on all webhosts and or with all server configurations.
+
+To use this demo, you'll need to add your API Key and the correct redirect URI for that API Key where indicated in the ccclientflow.html file Javascript, and then you can navigate to the index.php file and proceed. The scripts themselves are documented, and the demo displays a description of what's happening along the way.
